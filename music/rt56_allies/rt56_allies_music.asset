@@ -1,0 +1,275 @@
+
+
+music = {
+	name = "vers_l_avenir_instrumental"
+	file = "vers_l_avenir_instrumental.ogg"
+	volume = 1.35
+}
+music = {
+	name = "Ik Heb Een Huis Met Een Tuintje Gehuurd"
+	file = "Ik Heb Een Huis Met Een Tuintje Gehuurd.ogg"
+	volume = 11
+}
+music = {
+	name = "Ik heb een keukentje"
+	file = "Ik heb een keukentje.ogg"
+	volume = 2.00
+}
+music = {
+	name = "Radio_Fox_LAccordeoniste_Deprince_et_son_Orchestre"
+	file = "Radio_Fox_LAccordeoniste_Deprince_et_son_Orchestre.ogg"
+	volume = 1.75
+}
+music = {
+	name = "Zuyderzee Blues"
+	file = "Zuyderzee Blues.ogg"
+	volume = 1.75
+}
+music = {
+	name = "Steeple Chase"
+	file = "steeple chase.ogg"
+	volume = 1.75
+}
+music = {
+	name = "Sous mon parapluie d'amour"
+	file = "Sous mon parapluie d'amour.ogg"
+	volume = 1.75
+}
+music = {
+	name = "Swing the fiddles"
+	file = "Swing the fiddles.ogg"
+	volume = 1.75
+}
+music = {
+	name = "Black_bottom"
+	file = "TheRamblersBennyCarter-BlackBottom.ogg"
+	volume = 1.75
+}
+
+music = {
+	name = "Could_You_Please_Oblige_Us_With_A_Bren_Gun"
+	file = "Could_You_Please_Oblige_Us_With_A_Bren_Gun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Always_be_an_England"
+	file = "Always_be_an_England.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anything_goes"
+	file = "Anything_goes.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Auld_Lang_Syne"
+	file = "Auld_Lang_Syne.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Battle_Hymn_of_the_Republic"
+	file = "Battle_Hymn_of_the_Republic.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Blood_Upon_the_Risers"
+	file = "Blood_Upon_the_Risers.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Come_all_You_Bold_Canadians"
+	file = "Come_all_You_Bold_Canadians.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dat_doet_de_Mob_lisatie"
+	file = "Dat_doet_de_Mob_lisatie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Douce_France"
+	file = "Douce_France.ogg"
+	volume = 1
+}
+
+music = {
+	name = "duce_puts_on_his_uniform"
+	file = "duce_puts_on_his_uniform.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Georg_Malmsten_ja_orkesteri"
+	file = "Georg_Malmsten_ja_orkesteri.ogg"
+	volume = 1
+}
+
+music = {
+	name = "God_Save_the_King"
+	file = "God_Save_the_King.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I_Vow_to_Thee_My_Country"
+	file = "I_Vow_to_Thee_My_Country.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Its_a_Long_Way_to_Tipperary"
+	file = "Its_a_Long_Way_to_Tipperary.ogg"
+	volume = 1
+}
+
+music = {
+	name = "J_ai_deux_amours"
+	file = "J_ai_deux_amours.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Kiss_Me_Good_Night_Sergeant_Major"
+	file = "Kiss_Me_Good_Night_Sergeant_Major.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Land_of_Hope_and_Glory"
+	file = "Land_of_Hope_and_Glory.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mefie_toi_de_la_patrouille"
+	file = "Mefie_toi_de_la_patrouille.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Monty_ohe_du_pinard"
+	file = "Monty_ohe_du_pinard.ogg"
+	volume = 1
+}
+
+music = {
+	name = "National_Anthem_of_Canada"
+	file = "National_Anthem_of_Canada.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Non_Je_Ne_Regrette_Rien"
+	file = "Non_Je_Ne_Regrette_Rien.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Over_There"
+	file = "Over_There.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Praise_the_Lord_and_Pass_the_Ammunition"
+	file = "Praise_the_Lord_and_Pass_the_Ammunition.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Prikkeldraad_Marsch"
+	file = "Prikkeldraad_Marsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rule_Britannia"
+	file = "Rule_Britannia.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_British_Grenadiers_fife_and_drum"
+	file = "The_British_Grenadiers_fife_and_drum.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_Lorraine_March"
+	file = "The_Lorraine_March.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_Star_Spangled_Banner"
+	file = "The_Star_Spangled_Banner.ogg"
+	volume = 1
+}
+
+music = {
+	name = "This_is_the_army"
+	file = "This_is_the_army.ogg"
+	volume = 1
+}
+
+music = {
+	name = "war_blues"
+	file = "war_blues.ogg"
+	volume = 1
+}
+
+music = {
+	name = "War_jazz"
+	file = "War_jazz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Were_Gonna_Hang_Out_the_Washing_on_the_Siegfried_Line"
+	file = "Were_Gonna_Hang_Out_the_Washing_on_the_Siegfried_Line.ogg"
+	volume = 1
+}
+
+music = {
+	name = "When_Johnny_Comes_Marching_Home"
+	file = "When_Johnny_Comes_Marching_Home.ogg"
+	volume = 1
+}
+
+music = {
+	name = "White_Cliffs_Of_Dover"
+	file = "White_Cliffs_Of_Dover.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Coming_in_on_a_Wing_and_a_prayer"
+	file = "Coming_in_on_a_Wing_and_a_prayerr.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le_Chant_Des_Partisans"
+	file = "Le_Chant_Des_Partisans.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Marche_de_la_Legion_Le_Boudin"
+	file = "Marche_de_la_Legion_Le_Boudin.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Well_Meet_Again"
+	file = "Well_Meet_Again.ogg"
+	volume = 1
+}

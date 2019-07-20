@@ -1,0 +1,145 @@
+music_station = "rt56_misc"
+
+music = {
+	song = "Elegia"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "CC_Soviet_March"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Caravan"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Dont_Fool_Around_America"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Dushman"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Glory_to_Arstotzka"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "House_of_the_Rising_Sun_german"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Mother_Anarchy_Loves_Her_Sons"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "On_the_Hills_of_Manchuria"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "Rot_und_schwarz"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "The_Hunt_for_Red_October"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}
+
+music = {
+	song = "WaW_Russian_Theme"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+		}		
+	}	
+}

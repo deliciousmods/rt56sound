@@ -1,0 +1,117 @@
+
+music_station = "classic"
+
+music = {
+	song = "Ride of the Valkyries"
+
+}
+
+music = {
+	song = "Oboe concierto Op. 9 No. 2"
+	
+}
+
+music = {
+	song = "Orchestral Suite No. 2"
+
+}
+
+music = {
+	song = "Orchestral Suite No. 3"
+	
+}
+
+music = {
+	song = "Orfeo ed Euridice"
+
+}
+
+music = {
+	song = "Morning Mood"
+
+}
+
+music = {
+	song = "Oboe Concierto No. 3"
+
+}
+
+music = {
+	song = "Oboe Concerto in D Minor"
+
+}
+
+music = {
+	song = "Clarinet Concerto No. 2"
+
+}
+
+music = {
+	song = "Concierto de Aranjuez"
+
+}
+
+music = {
+	song = "The Song"
+
+}
+
+music = {
+	song = "Piccolaflute Concierto"
+
+}
+
+music = {
+	song = "The Damnation of Faust - Hungarian March"
+
+}
+
+music = {
+	song = "España, Rhapsody For Orchestra"
+
+}
+
+music = {
+	song = "Homecoming"
+
+}
+
+music = {
+	song = "In the Hall of the Mountain King"
+
+}
+
+music = {
+	song = "Georgian War March"
+
+}
+
+music = {
+	song = "Pictures at an Exhibition"
+
+}
+
+music = {
+	song = "The Great Gate of Kiev"
+
+}
+
+music = {
+	song = "1812 - Overture"
+
+}
+
+music = {
+	song = "The Battle Of Poltava"
+
+}
+
+music = {
+	song = "Entry of the Gods Into Valhalla"
+
+}
+
+music = {
+	song = "Lohengrin"
+
+}

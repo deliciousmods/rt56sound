@@ -1,0 +1,508 @@
+music_station = "rt56_axis"
+
+music = {
+	song = "Battotai"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Alte_Kameraden"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Anthem_of_the_BUF"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Argonnerwaldlied"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Cara_al_Sol"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Der_machtigste_Konig_im_Luftrevier"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Die_Wacht_am_Rhein"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Drei_Lilien_Drei_Lilien"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Ein_Heller_Und_Ein_Batzen"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Erika"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Es_war_ein_Edelweis"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Funkerlied"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Giovenizza"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Hej_Slovaci"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Hohei_no_Honryo"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Honved_Banda"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Im_Wald_im_grunen_Walde"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Inno_dei_figli_della_lupa"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Inno_di_Forza_Nuova"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "L_ha_detto_Mussolini"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Marechal_nous_voila"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "marschiert_in_feindesland"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Mein_Schlesierland"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Morgen_marschieren_wir"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "National_Anthem_of_Japan"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Anthem_of_the_Estado_Novo"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Primavera"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Rozsika"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Schwarzbraun_ist_die_Haselnuss"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Szozat"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Unser_Rommel"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Unsere_Marine"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Ustaska_se_Vojska_Dize"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "We_Go_on_the_Wide_Fields"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Wenn_Die_Soldaten"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Westerwald_Lied"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Yuki_no_Shingun"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Vers l'avenir - chant rexiste"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}
+
+music = {
+	song = "Anthem_of_the_Silver_Legion_of_America"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = fascism
+		}
+	}
+}

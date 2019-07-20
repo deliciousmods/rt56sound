@@ -1,0 +1,72 @@
+
+music = {
+	name = "Elegia"
+	file = "Elegia.ogg"
+	volume = 1
+}	
+
+music = {
+	name = "CC_Soviet_March"
+	file = "CC_Soviet_March.ogg"
+	volume = 1
+}	
+
+music = {
+	name = "Caravan"
+	file = "Caravan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dont_Fool_Around_America"
+	file = "Dont_Fool_Around_America.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Dushman"
+	file = "Dushman.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Glory_to_Arstotzka"
+	file = "Glory_to_Arstotzka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "House_of_the_Rising_Sun_german"
+	file = "House_of_the_Rising_Sun_german.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mother_Anarchy_Loves_Her_Sons"
+	file = "Mother_Anarchy_Loves_Her_Sons.ogg"
+	volume = 1
+}
+
+music = {
+	name = "On_the_Hills_of_Manchuria"
+	file = "On_the_Hills_of_Manchuria.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rot_und_schwarz"
+	file = "Rot_und_schwarz.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_Hunt_for_Red_October"
+	file = "The_Hunt_for_Red_October.ogg"
+	volume = 4
+}
+
+music = {
+	name = "WaW_Russian_Theme"
+	file = "WaW_Russian_Theme.ogg"
+	volume = 1
+}

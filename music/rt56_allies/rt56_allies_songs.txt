@@ -1,0 +1,604 @@
+music_station = "rt56_allies"
+
+music = {
+	song = "vers_l_avenir_instrumental"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+music = {
+	song = "Ik Heb Een Huis Met Een Tuintje Gehuurd"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+music = {
+	song = "Ik heb een keukentje"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+music = {
+	song = "Black_bottom"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+music = {
+	song = "Radio_Fox_LAccordeoniste_Deprince_et_son_Orchestre"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+music = {
+	song = "Zuyderzee Blues"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+music = {
+	song = "Steeple Chase"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+music = {
+	song = "Swing the fiddles"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+music = {
+	song = "Sous mon parapluie d'amour"
+	
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}	
+}
+
+music = {
+	song = "Could_You_Please_Oblige_Us_With_A_Bren_Gun"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Always_be_an_England"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Anything_goes"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Auld_Lang_Syne"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Battle_Hymn_of_the_Republic"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Blood_Upon_the_Risers"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Come_all_You_Bold_Canadians"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Coming_in_on_a_Wing_and_a_prayer"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Dat_doet_de_Mob_lisatie"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Douce_France"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "duce_puts_on_his_uniform"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Georg_Malmsten_ja_orkesteri"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "God_Save_the_King"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "I_Vow_to_Thee_My_Country"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Its_a_Long_Way_to_Tipperary"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "J_ai_deux_amours"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Kiss_Me_Good_Night_Sergeant_Major"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Land_of_Hope_and_Glory"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Le_Chant_Des_Partisans"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Marche_de_la_Legion_Le_Boudin"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Mefie_toi_de_la_patrouille"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Monty_ohe_du_pinard"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "National_Anthem_of_Canada"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Non_Je_Ne_Regrette_Rien"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Over_There"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Praise_the_Lord_and_Pass_the_Ammunition"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Prikkeldraad_Marsch"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Rule_Britannia"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "The_British_Grenadiers_fife_and_drum"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "The_Lorraine_March"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "The_Star_Spangled_Banner"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "This_is_the_army"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "war_blues"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "War_jazz"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Well_Meet_Again"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "Were_Gonna_Hang_Out_the_Washing_on_the_Siegfried_Line"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "When_Johnny_Comes_Marching_Home"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}
+
+music = {
+	song = "White_Cliffs_Of_Dover"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = democratic
+		}
+	}
+}

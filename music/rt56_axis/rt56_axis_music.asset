@@ -1,0 +1,234 @@
+
+music = {
+	name = "Battotai"
+	file = "Battotai.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Alte_Kameraden"
+	file = "Alte_Kameraden.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anthem_of_the_BUF"
+	file = "Anthem_of_the_BUF.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Argonnerwaldlied"
+	file = "Argonnerwaldlied.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Cara_al_Sol"
+	file = "Cara_al_Sol.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Der_machtigste_Konig_im_Luftrevier"
+	file = "Der_machtigste_Konig_im_Luftrevier.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Die_Wacht_am_Rhein"
+	file = "Die_Wacht_am_Rhein.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Drei_Lilien_Drei_Lilien"
+	file = "Drei_Lilien_Drei_Lilien.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ein_Heller_Und_Ein_Batzen"
+	file = "Ein_Heller_Und_Ein_Batzen.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Erika"
+	file = "Erika.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Es_war_ein_Edelweis"
+	file = "Es_war_ein_Edelweis.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Funkerlied"
+	file = "Funkerlied.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Giovenizza"
+	file = "Giovenizza.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hej_Slovaci"
+	file = "Hej_Slovaci.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Hohei_no_Honryo"
+	file = "Hohei_no_Honryo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Honved_Banda"
+	file = "Honved_Banda.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Im_Wald_im_grunen_Walde"
+	file = "Im_Wald_im_grunen_Walde.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Inno_dei_figli_della_lupa"
+	file = "Inno_dei_figli_della_lupa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Inno_di_Forza_Nuova"
+	file = "Inno_di_Forza_Nuova.ogg"
+	volume = 1
+}
+
+music = {
+	name = "L_ha_detto_Mussolini"
+	file = "L_ha_detto_Mussolini.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Marechal_nous_voila"
+	file = "Marechal_nous_voila.ogg"
+	volume = 1
+}
+
+music = {
+	name = "marschiert_in_feindesland"
+	file = "marschiert_in_feindesland.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Mein_Schlesierland"
+	file = "Mein_Schlesierland.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Morgen_marschieren_wir"
+	file = "Morgen_marschieren_wir.ogg"
+	volume = 1
+}
+
+music = {
+	name = "National_Anthem_of_Japan"
+	file = "National_Anthem_of_Japan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anthem_of_the_Estado_Novo"
+	file = "Anthem_of_the_Estado_Novo.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Primavera"
+	file = "Primavera.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Rozsika"
+	file = "Rozsika.ogg"
+	volume = 3
+}
+
+music = {
+	name = "Schwarzbraun_ist_die_Haselnuss"
+	file = "Schwarzbraun_ist_die_Haselnuss.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Szozat"
+	file = "Szozat.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Unser_Rommel"
+	file = "Unser_Rommel.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Unsere_Marine"
+	file = "Unsere_Marine.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ustaska_se_Vojska_Dize"
+	file = "Ustaska_se_Vojska_Dize.ogg"
+	volume = 1
+}
+
+music = {
+	name = "We_Go_on_the_Wide_Fields"
+	file = "We_Go_on_the_Wide_Fields.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Wenn_Die_Soldaten"
+	file = "Wenn_Die_Soldaten.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Westerwald_Lied"
+	file = "Westerwald_Lied.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Yuki_no_Shingun"
+	file = "Yuki_no_Shingun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vers l'avenir - chant rexiste"
+	file = "Vers l'avenir - chant rexiste.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anthem_of_the_Silver_Legion_of_America"
+	file = "Anthem_of_the_Silver_Legion_of_America.ogg"
+	volume = 1
+}

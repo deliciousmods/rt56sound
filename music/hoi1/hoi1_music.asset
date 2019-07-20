@@ -1,0 +1,137 @@
+music = {
+	name = "Ride of the Valkyries"
+	file = "Hoi1_Wagner - The Valkyrie (Ride of the Valkyries).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Oboe concierto Op. 9 No. 2"
+	file = "Hoi1_Albiononi - Oboe concierto Op. 9 No. 2 (Adagio).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Orchestral Suite No. 2"
+	file = "Hoi1_Bach - Orchestral Suite No. 2 (Badinerie).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Orchestral Suite No. 3"
+	file = "Hoi1_Bach - Orchestral Suite No. 3 (Air).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Orfeo ed Euridice"
+	file = "Hoi1_Gluck - Orfeo ed Euridice.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Morning Mood"
+	file = "Hoi1_Grieg - Peer Gynt (Morning Mood).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Oboe Concierto No. 3"
+	file = "Hoi1_Handel - Oboe Concerto No. 3 in G minor (3 Sarabande-Largo).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Oboe Concerto in D Minor"
+	file = "Hoi1_Marcello - Oboe Concerto in D Minor (Adagio).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Clarinet Concerto No. 2"
+	file = "Hoi1_Mozart - Clarinet Concerto II (Adagio).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Concierto de Aranjuez"
+	file = "Hoi1_Rodrigo - Concierto de Aranjuez (Adagio).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The Song"
+	file = "Hoi1_Stenhammar - The Song (Interlude).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Piccolaflute Concierto"
+	file = "Hoi1_Vivaldi - Piccolaflute concierto (Largo).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The Damnation of Faust - Hungarian March"
+	file = "Hoi1_Berlioz - The Damnation of Faust - Hungarian March.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "España, Rhapsody For Orchestra"
+	file = "Hoi1_Chabrier - Espana, Rhapsody For Orchestra.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Homecoming"
+	file = "Hoi1_Grieg - Peer Gynt (Homecoming).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "In the Hall of the Mountain King"
+	file = "Hoi1_Grieg - Peer Gynt (In the Hall of the Mountain King).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Georgian War March"
+	file = "Hoi1_Ippolitov-Ivanow - Georgian War March.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Pictures at an Exhibition"
+	file = "Hoi1_Mussorgsky - Pictures at an Exhibition.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The Great Gate of Kiev"
+	file = "Hoi1_Mussorgsky - The Great Gate of Kiev.ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "1812 - Overture"
+	file = "Hoi1_Tchaikovsky - 1812 (Overture).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "The Battle Of Poltava"
+	file = "Hoi1_Tchaikovsky - Mazeppa (The Battle Of Poltava).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Entry of the Gods Into Valhalla"
+	file = "Hoi1_Wagner - Das Rheingold (Entry of the Gods Into Valhalla).ogg"
+	volume = 0.65
+}
+
+music = {
+	name = "Lohengrin"
+	file = "Hoi1_Wagner - Lohengrin (Prelude to Act III).ogg"
+	volume = 0.65
+}

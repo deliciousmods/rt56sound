@@ -1,0 +1,102 @@
+
+music = {
+	name = "Ambitions_to_the_Sky"
+	file = "Ambitions_to_the_Sky.ogg"
+	volume = 1
+}
+
+music = {
+	name = "national_Anthem_of_Austria_Hungary"
+	file = "national_Anthem_of_Austria_Hungary.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Anthem_of_Whampoa_Military_Academy"
+	file = "Anthem_of_Whampoa_Military_Academy.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Guisan_Marsch"
+	file = "Guisan_Marsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "I_Have_a_Gun"
+	file = "I_Have_a_Gun.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Jaakarimarssi"
+	file = "Jaakarimarssi.ogg"
+	volume = 1
+}
+
+music = {
+	name = "National_Anthem_of_RoC"
+	file = "National_Anthem_of_RoC.ogg"
+	volume = 1
+}
+
+music = {
+	name = "National_anthem_of_the_Qing_empire"
+	file = "National_anthem_of_the_Qing_empire.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Night_Raid"
+	file = "Night_Raid.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Njet_Molotoff"
+	file = "Njet_Molotoff.ogg"
+	volume = 1
+}
+
+music = {
+	name = "RoC_Navy_Song"
+	file = "RoC_Navy_Song.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Sakkijarven_Polkka"
+	file = "Sakkijarven_Polkka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Song_of_the_Civil_Revolution"
+	file = "Song_of_the_Civil_Revolution.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Under_the_Double_Eagle_March"
+	file = "Under_the_Double_Eagle_March.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Ungarische_Monarchie"
+	file = "Ungarische_Monarchie.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Upright_and_Equal_Spirit"
+	file = "Upright_and_Equal_Spirit.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Vapaussoturin_Valloituslaulu"
+	file = "Vapaussoturin_Valloituslaulu.ogg"
+	volume = 1
+}

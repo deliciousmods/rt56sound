@@ -1,0 +1,331 @@
+
+music = {
+	name = "A_Cradle_On_the_Barricade"
+	file = "A_Cradle_On_the_Barricade.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Warsaw_pact_march"
+	file = "Warsaw_pact_march.ogg"
+	volume = 1
+}
+
+music = {
+	name = "National_anthem_of_the_uusr"
+	file = "National_anthem_of_the_uusr.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lets_go"
+	file = "Lets_go.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Farewell_of_slavianka_instrumental"
+	file = "Farewell_of_slavianka_instrumental.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Farewell_of_slavianka"
+	file = "Farewell_of_slavianka.ogg"
+	volume = 1.5
+}
+
+music = {
+	name = "The_road_of_the_marshal"
+	file = "The_road_of_the_marshal.ogg"
+	volume = 1
+}
+
+music = {
+	name = "roter_wedding"
+	file = "roter_wedding.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Einheitsfrontlied"
+	file = "Einheitsfrontlied.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Goodbye_Germany"
+	file = "Goodbye_Germany.ogg"
+	volume = 1.5
+}
+
+music = {
+	name = "If_Tomorrow_Brings_War"
+	file = "If_Tomorrow_Brings_War.ogg"
+	volume = 1
+}
+
+music = {
+	name = "march_of_the_polish_partisans"
+	file = "march_of_the_polish_partisans.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Albanian_Partisan_Song"
+	file = "Albanian_Partisan_Song.ogg"
+	volume = 1
+}
+
+music = {
+	name = "nato_maja_rippa_rippa"
+	file = "nato_maja_rippa_rippa.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Was_wollen_wir_trinken"
+	file = "Was_wollen_wir_trinken.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Katusha"
+	file = "Katusha.ogg"
+	volume = 3
+}
+
+music = {
+	name = "Moscow_Nights"
+	file = "Moscow_Nights.ogg"
+	volume = 1
+}
+
+music = {
+	name = "My_Army"
+	file = "My_Army.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bolshevik_leaves_home"
+	file = "Bolshevik_leaves_home.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Chant_of_a_Russian_Soldier"
+	file = "Chant_of_a_Russian_Soldier.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Fischia_Il_Vento"
+	file = "Fischia_Il_Vento.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Bella_Ciao"
+	file = "Bella_Ciao.ogg"
+	volume = 5
+}
+
+music = {
+	name = "Bella_Ciao_soviet"
+	file = "Bella_Ciao_soviet.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Auferstanden_aus_Ruinen"
+	file = "Auferstanden_aus_Ruinen.ogg"
+	volume = 1
+}
+
+
+music = {
+	name = "Auferstanden_Aus_Ruinen_Instrumental"
+	file = "Auferstanden_Aus_Ruinen_Instrumental.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Oh_Little_Apple"
+	file = "Oh_Little_Apple.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Der_offene_Aufmarsch"
+	file = "Der_offene_Aufmarsch.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_Red_Army_Is_the_Strongest"
+	file = "The_Red_Army_Is_the_Strongest.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Brothers_to_the_Sun_to_Freedom"
+	file = "Brothers_to_the_Sun_to_Freedom.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Warszawianka"
+	file = "Warszawianka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "We_Are_With_Marshal_Tito"
+	file = "We_Are_With_Marshal_Tito.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Paradermarsch_der_Nationalen_Volksarmee"
+	file = "Paradermarsch_der_Nationalen_Volksarmee.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_of_the_Red_Cavalry"
+	file = "March_of_the_Red_Cavalry.ogg"
+	volume = 1
+}
+
+music = {
+	name = "When_that_Day_Comes"
+	file = "When_that_Day_Comes.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Warschawjanka_german"
+	file = "Warschawjanka_german.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Workers_of_Vienna"
+	file = "Workers_of_Vienna.ogg"
+	volume = 1
+}
+
+music = {
+	name = "On_the_Road"
+	file = "On_the_Road.ogg"
+	volume = 1
+}
+
+music = {
+	name = "We_Are_the_Army_of_the_People"
+	file = "We_Are_the_Army_of_the_People.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Song_of_the_Fatherland"
+	file = "Song_of_the_Fatherland.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_Sacred_War"
+	file = "The_Sacred_War.ogg"
+	volume = 1
+}
+
+music = {
+	name = "March_of_the_Peoples_Liberation_Army"
+	file = "March_of_the_Peoples_Liberation_Army.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Without_the_Communist_Party_There_Would_be_No_New_China"
+	file = "Without_the_Communist_Party_There_Would_be_No_New_China.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_Great_Proletariat_Cultural_Revolution"
+	file = "The_Great_Proletariat_Cultural_Revolution.ogg"
+	volume = 1
+}
+
+music = {
+	name = "No_pasaran"
+	file = "No_pasaran.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Red_Army_is_the_Strongest_alt"
+	file = "Red_Army_is_the_Strongest_alt.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Le_Capitaine_Au_mur"
+	file = "Le_Capitaine_Au_mur.ogg"
+	volume = 1
+}
+
+music = {
+	name = "The_Internationale_Russian"
+	file = "The_Internationale_Russian.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Internationale_German"
+	file = "Internationale_German.ogg"
+	volume = 1
+}
+
+music = {
+	name = "LInternationale_French"
+	file = "LInternationale_French.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Lappel_du_Komintern"
+	file = "Lappel_du_Komintern.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Here_the_Soldiers_Go"
+	file = "Here_the_Soldiers_Go.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Polyushka_Polye"
+	file = "Polyushka_Polye.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Glory_to_the_ones_who_look_forward"
+	file = "Glory_to_the_ones_who_look_forward.ogg"
+	volume = 1
+}
+
+music = {
+	name = "National_Anthem_Soviet_Union_alt"
+	file = "National_Anthem_Soviet_Union_alt.ogg"
+	volume = 1
+}
+
+music = {
+	name = "Song_of_the_Volga_Boatmen"
+	file = "Song_of_the_Volga_Boatmen.ogg"
+	volume = 1
+}

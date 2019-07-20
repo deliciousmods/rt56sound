@@ -1,0 +1,222 @@
+music_station = "rt56_neutral"
+
+music = {
+	song = "Ambitions_to_the_Sky"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "national_Anthem_of_Austria_Hungary"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Anthem_of_Whampoa_Military_Academy"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Guisan_Marsch"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "I_Have_a_Gun"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Jaakarimarssi"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "National_Anthem_of_RoC"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "National_anthem_of_the_Qing_empire"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Night_Raid"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Njet_Molotoff"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "RoC_Navy_Song"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Sakkijarven_Polkka"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Song_of_the_Civil_Revolution"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Under_the_Double_Eagle_March"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Ungarische_Monarchie"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Upright_and_Equal_Spirit"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
+
+music = {
+	song = "Vapaussoturin_Valloituslaulu"
+
+	chance = {
+		modifier = {
+			factor = 2
+
+			has_war = no
+			has_government = neutrality
+		}
+	}
+}
