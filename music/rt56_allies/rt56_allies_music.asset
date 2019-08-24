@@ -252,7 +252,7 @@ music = {
 
 music = {
 	name = "Coming_in_on_a_Wing_and_a_prayer"
-	file = "Coming_in_on_a_Wing_and_a_prayerr.ogg"
+	file = "Coming_in_on_a_Wing_and_a_prayer.ogg"
 	volume = 1
 }
 
